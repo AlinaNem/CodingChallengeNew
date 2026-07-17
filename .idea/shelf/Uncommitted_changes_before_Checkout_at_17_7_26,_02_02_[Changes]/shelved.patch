@@ -1,0 +1,14 @@
+Index: src/main/java/org/example/login/Login.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package org.example.login;\n\npublic class login {\n}\n
+===================================================================
+diff --git a/src/main/java/org/example/login/Login.java b/src/main/java/org/example/login/Login.java
+--- a/src/main/java/org/example/login/Login.java	(revision 4c17c0d273a24d2f95b3105635c133a5dc1b73d7)
++++ b/src/main/java/org/example/login/Login.java	(date 1784232075468)
+@@ -1,4 +1,4 @@
+ package org.example.login;
+ 
+-public class login {
++public class Login {
+ }
